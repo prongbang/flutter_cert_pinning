@@ -2,6 +2,14 @@
 
 https://github.com/diefferson/http_certificate_pinning
 
+## Dependencies
+
+```yaml
+dependencies:
+  dio: ^4.0.4
+  http_certificate_pinning: 2.0.3
+```
+
 ### Get SHA256 Certificate Fingerprint from `certificate-file.crt`
 
 ```shell
