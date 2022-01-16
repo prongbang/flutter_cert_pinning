@@ -16,10 +16,10 @@ dependencies:
 make get_sha256_certificate_fingerprint certificate=certificate-file.crt
 ```
 
-### Get SHA256 Certificate Fingerprint from `Domain`
+### Get SHA256 Certificate Fingerprint from `domain`
 
 ```shell
-make get_certificate_fingerprint host=prongbang.github.io
+make get_certificate_fingerprint domain=prongbang.github.io
 ```
 
 ### Output
